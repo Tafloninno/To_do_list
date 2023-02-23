@@ -181,7 +181,7 @@ To run tests, run the following command:
 
 > I'll add the following section to the webpage.
 
-- [ ] **Add Remove and Add **
+- [ ] **Add Remove and Add**
 - [ ] **Interactive list**
 
 
